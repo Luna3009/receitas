@@ -1,7 +1,7 @@
 # Strogonoff de frango
 
 **INGREDIENTES**
-<h1>3 peitos de frango cortados em cubos</h1>
+<h3>3 peitos de frango cortados em cubos
 1 dente de alho picado
 sal e pimenta a gosto
 1 cebola picada
@@ -11,6 +11,6 @@ sal e pimenta a gosto
 1/3 copo de mostarda
 1 copo de cogumelos
 1 copo de creme de leite
-batata palha a gosto
+batata palha a gosto</h3>
 
 
